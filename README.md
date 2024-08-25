@@ -1,1 +1,14 @@
-# MAQE_BOT
+
+## Installation
+
+```bash
+$ yarn install
+```
+
+## Running the app
+
+```bash
+# development
+$ yarn start
+
+```
